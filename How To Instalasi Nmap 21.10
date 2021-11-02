@@ -6,7 +6,6 @@ nmap is a tool that works to perform a port scan on a network or on a website, a
   # nmap
   # sudo apt -y install nmap
   # sudo snap install nmap
-  # nmap -version
 
 =====================================================================================================================================================================
 
